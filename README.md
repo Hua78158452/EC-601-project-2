@@ -1,11 +1,11 @@
 product mission statement
-Our MVP strives to be the go-to resource for individuals seeking instant insights into air quality. By seamlessly integrating with the Google Maps API, our mission is to offer a hassle-free experience, allowing users to effortlessly search for locations, retrieve accurate air quality data, and gain a clear understanding of the potential impact on their health.
+Our MVP is to be the go-to source for everyone looking for quick information about air quality. Our goal is to provide a hassle-free experience for customers by integrating smoothly with the Google Maps API. This will enable them to search for areas, receive precise data on air quality, and comprehend the possible health effects.
 
-In this initial phase, our primary focus is on simplicity and efficiency, ensuring that users can access vital information without any unnecessary complexity. Through this user-centric approach, we aim to empower people to adapt their daily routines and activities based on real-time air quality conditions.
+During this first stage, we prioritize efficiency and simplicity to make sure consumers can obtain important information without needless complexity. We want to enable people to modify their daily schedules and activities in response to current air quality circumstances by using this user-centric approach.
 
-Our broader vision is to cultivate a community of informed and proactive individuals who, armed with knowledge about air quality, are inspired to contribute to positive changes. With the MVP, we're laying the groundwork for a platform that not only raises awareness but also actively engages users in advocating for and implementing measures to enhance air quality in their communities.
+Our overarching goal is to build an informed and engaged community of people who are motivated to make positive improvements in the air quality because they possess information about it. With the MVP, we're establishing the foundation for a platform that actively involves users in lobbying for and putting into action policies aimed at improving local air quality.
 
-As we launch this MVP, we are committed to continuously refining and expanding our product based on user feedback and evolving environmental needs. Our mission is to evolve with our users, making air quality information accessible, actionable, and a catalyst for positive change.
+We are dedicated to iteratively improving and growing our product as we deploy this MVP in response to user input and changing environmental requirements. Our goal is to develop with our users, bringing air quality data to the public's attention, enabling it to be used as a tool for constructive change.
 
 User story
 As residents, the site allows users to easily search for locations and check the Air Quality index.
