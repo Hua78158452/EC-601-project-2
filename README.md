@@ -23,3 +23,5 @@ As a researcher, I want to download air quality data from specific locations in 
 As a city planner, I want to integrate the air quality API into our urban planning tools, so that we can make data-driven decisions to create healthier and more sustainable environments for our residents.
 
 As an environmentally conscious individual, I want the website to provide information on how my daily choices can contribute to improving air quality, so that I can take actions to reduce my carbon footprint and promote cleaner air in my community.
+
+if you want to open the website, just run the index.html. (In vscode, there is a button named open in the default browser showing when you click right the code)
